@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#options {
+  margin-top: 20px;
+}
+
+.option {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#flag {
+  width: 200px;
+  height: auto;
+}
